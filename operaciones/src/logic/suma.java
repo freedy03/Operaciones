@@ -1,5 +1,8 @@
 package logic;
 
-public class suma {
-
+public class Suma {
+	public int suma(int num1,int num2){
+	
+	return num1+num2;
+	}
 }
