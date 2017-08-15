@@ -1,6 +1,6 @@
 package logic;
 
-public class Resta {
+public class resta {
 	
 
 	public int resta(int num1,int num2){
