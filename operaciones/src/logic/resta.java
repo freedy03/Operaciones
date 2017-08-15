@@ -7,5 +7,5 @@ public class Resta {
 	
 	return num1-num2;
 	}
-
+  
 }
